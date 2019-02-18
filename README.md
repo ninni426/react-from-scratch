@@ -5,17 +5,16 @@ create-react-app hides the complications of creating a new react project and exp
 1) Make sure you have installed:
 
     NodeJS
-		node -v 
-			v10.14.2
+	node -v 
+	v10.14.2
     npm
-		npm -v 
-			6.8.0
+	npm -v 
+	6.8.0
 
 2) Libraries to set up react from scratch:
-
 	We’ll be using webpack and babel to set up react, and I don’t want you to get confused.
-    Babel is the compiler for next-generation JavaScript. It compiles newer JavaScript (ES6/7/8) to older ES5 standard to run the same on old and new browsers.
-    Webpack is a module bundler. We’ll use multi-directory and multi-file approach for easy management of the project. Webpack will bundle all our files into one, offering better performance and easier dependency management.
+    	Babel is the compiler for next-generation JavaScript. It compiles newer JavaScript (ES6/7/8) to older ES5 standard to run the same on old and new browsers.
+    	Webpack is a module bundler. We’ll use multi-directory and multi-file approach for easy management of the project. Webpack will bundle all our files into one, offering better performance and easier dependency management.
 
 3) In terminal provide following commands :
 
